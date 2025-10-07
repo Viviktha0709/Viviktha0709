@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <!-- White GitHub logo for visibility -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-dark-mode-only" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" />
 </p>
@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: [[your-linkedin-url](https://www.linkedin.com/in/vivikthavujagiri/)]  
+- LinkedIn: [https://www.linkedin.com/in/vivikthavujagiri/]  
 - Email: vivikthavujagiri@gmail.com  
-- Twitter / X: [@v_viviktha]  
+- Twitter / X: [v_viviktha]  
 ---
