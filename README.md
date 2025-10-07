@@ -18,54 +18,56 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
 
-  <!-- AI / ML / Data -->
+  <!-- AI / ML -->
   <br>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" />
 
-  <!-- Deployment / Cloud / Tools -->
+  <!-- Cloud / Deployment -->
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" />
 
-  <!-- Frameworks / Others -->
+  <!-- Tools -->
   <br>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" />
 </p>
 
+
 ---
+## 🚀 Featured Projects
 
-## 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/Viviktha0709/ASL_Detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=ASL_Detector&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Viviktha0709/Exoplanet-Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=Exoplanet-Explorer&theme=tokyonight" />
+  </a>
+</p>
 
-Here are a few of my repositories:
-
-| Project | Description |
-|---|---|
-| **Exoplanet-Explorer** | A Python project focused on exploring and analyzing exoplanet datasets |
-| **ASL_Detector** | A computer vision model for recognizing American Sign Language |
-| **waste-classification-application** | An ML application to classify types of waste |
-| **Tomato-Disease** | Disease detection in tomato plants using image processing / ML |
-| **Object-Detection-Using-Deepstream-l4t-** | Object detection implementation using NVIDIA DeepStream on L4T |
-| **SpaceShooterGame3D** | A game in C++ (3D space shooter) |
-| **Tetris_Game**, **Flappy_Aeroplane** | Game projects (Python) to sharpen logic & programming |
+<p align="center">
+  <a href="https://github.com/Viviktha0709/SpaceShooterGame3D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=SpaceShooterGame3D&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Viviktha0709/jetbot-final-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=jetbot-final-projects&theme=tokyonight" />
+  </a>
+</p>
+**Tetris_Game**, **Flappy_Aeroplane** | Game projects (Python) to sharpen logic & programming |
 
 ---
 
