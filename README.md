@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ## 💻 Tech Stack
 
-<p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
@@ -44,30 +43,13 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" />
-</p>
-
 
 ---
 ## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Viviktha0709/ASL_Detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=ASL_Detector&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Viviktha0709/Exoplanet-Explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=Exoplanet-Explorer&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Viviktha0709/SpaceShooterGame3D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=SpaceShooterGame3D&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Viviktha0709/jetbot-final-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viviktha0709&repo=jetbot-final-projects&theme=tokyonight" />
-  </a>
-</p>
-**Tetris_Game**, **Flappy_Aeroplane** | Game projects (Python) to sharpen logic & programming |
+- 🧠 [ASL Detector](https://github.com/Viviktha0709/ASL_Detector) — Real-time sign language recognition using MediaPipe & MobileNetV2.  
+- 🪐 [Exoplanet Explorer](https://github.com/Viviktha0709/Exoplanet-Explorer) — SQL + Streamlit dashboard for NASA exoplanet data.  
+- 🎮 [3D Space Shooter Game](https://github.com/Viviktha0709/SpaceShooterGame3D) — OpenGL game with enemy AI and physics.  
+- 🤖 [JetBot Navigation](https://github.com/Viviktha0709/jetbot-final-projects) — Emotion-based autonomous navigation on NVIDIA JetBot.
 
 ---
 
