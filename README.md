@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 - 🌱 I love learning new technologies and improving my coding skills  
 - 👯 I’m open to collaborating on open source projects  
 - 💬 Ask me about Python, deep learning, deployment, or anything in AI  
-- 📫 How to reach me: [your-email@example.com] (or link to your social profile)  
+- 📫 How to reach me: [vivikthavujagiri@gmail.com]  
 - ⚡ Fun fact: I enjoy applying machine learning to real-world problems, especially in autonomy, image processing, and data analytics
 
 ---
@@ -45,17 +45,26 @@ Here are a few of my repositories:
 
 ## 📈 GitHub Stats
 
-> You can embed a GitHub stats card here (optional)  
-> Example:  
-> `![Viviktha’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Viviktha0709&show_icons=true&theme=radical)`
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Viviktha0709&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviktha0709&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Viviktha0709&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: [your-linkedin-url]  
-- Email: your-email@example.com  
-- Twitter / X: [your-handle]  
-- Portfolio / Blog: [your-site-url]
-
+- LinkedIn: [[your-linkedin-url](https://www.linkedin.com/in/vivikthavujagiri/)]  
+- Email: vivikthavujagiri@gmail.com  
+- Twitter / X: [@v_viviktha]  
 ---
