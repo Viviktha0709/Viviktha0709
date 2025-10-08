@@ -40,13 +40,6 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 </p>
 
 ---
-## 🚀 Featured Projects
-- 🧠 [ASL Detector](https://github.com/Viviktha0709/ASL_Detector) — Real-time sign language recognition using MediaPipe & MobileNetV2.  
-- 🪐 [Exoplanet Explorer](https://github.com/Viviktha0709/Exoplanet-Explorer) — SQL + Streamlit dashboard for NASA exoplanet data.  
-- 🎮 [3D Space Shooter Game](https://github.com/Viviktha0709/SpaceShooterGame3D) — OpenGL game with enemy AI and physics.  
-- 🤖 [JetBot Navigation](https://github.com/Viviktha0709/jetbot-final-projects) — Emotion-based autonomous navigation on NVIDIA JetBot.
-
----
 
 ## 📊 GitHub Stats
 
