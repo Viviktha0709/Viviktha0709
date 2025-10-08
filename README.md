@@ -58,9 +58,8 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect!
 
 - LinkedIn: [https://www.linkedin.com/in/vivikthavujagiri/]  
-- Email: vivikthavujagiri@gmail.com  
-- Twitter / X: [v_viviktha]  
+- Email: vivikthavujagiri@gmail.com   
 ---
