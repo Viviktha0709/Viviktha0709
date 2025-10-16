@@ -1,71 +1,65 @@
-<!-- 🎴 STUDIO GHIBLI HEADER GIF -->
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="100%" alt="Studio Ghibli Header"/>
-</p>
+# Bonjour!
 
-<h1 align="center">🌙 Welcome to My GitHub</h1>
+Welcome to my GitHub profile! I’m passionate about building intelligent systems, exploring data science & AI, and turning creative ideas into functional software.  
 
-<!-- 🌌 ABOUT ME SECTION -->
-<!-- GIF DIVIDER -->
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="70%" alt="Ghibli Divider"/>
-</p>
+---
 
-### 🌑 About Me
+## 🚀 About Me
 
-Hi! I'm **Viviktha**, a developer who loves building creative, impactful tech.  
-I’m passionate about problem-solving, anime aesthetics, and leveling up my skills one commit at a time.
+- 🔭 I’m currently working on projects related to computer vision, AI and Machine Learning
+- 🌱 I love learning new technologies and improving my coding skills  
+- 👯 I’m open to collaborating on open source projects  
+- 💬 Ask me about Python, deep learning, deployment, or anything in AI  
+- 📫 How to reach me: [vivikthavujagiri@gmail.com]  
+- ⚡ Fun fact: I listen to true crime podcasts before I sleep ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+---
 
-<!-- 🌌 SKILLS / TECH STACK -->
-<!-- GIF DIVIDER -->
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="70%" alt="Ghibli Divider"/>
-</p>
-
-### 🛠️ Skills & Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <!-- Add or remove icons as needed -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,git,github" />
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <!-- White GitHub logo for visibility -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" />
 </p>
 
-<!-- 🌌 GITHUB STATS -->
-<!-- GIF DIVIDER -->
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="70%" alt="Ghibli Divider"/>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Viviktha0709&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviktha0709&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viviktha0709&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viviktha0709&layout=compact&theme=tokyonight" height="160px"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Viviktha0709&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<!-- 🌌 CONTACT & SOCIALS -->
-<!-- GIF DIVIDER -->
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="70%" alt="Ghibli Divider"/>
-</p>
+---
 
-### 🌠 Contact & Socials
+## Let’s Connect!
 
-<p align="center">
-  <a href="mailto:vivikthavujagiri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vivikthavujagiri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/v_viviktha">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Viviktha07/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
-<!-- 🌙 FINAL GIF FOOTER -->
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="100%" alt="Studio Ghibli Footer"/>
-</p>
+- LinkedIn: [https://www.linkedin.com/in/vivikthavujagiri/]  
+- Email: vivikthavujagiri@gmail.com   
+---
