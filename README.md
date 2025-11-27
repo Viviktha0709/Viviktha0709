@@ -29,6 +29,5 @@ Welcome to my GitHub profile (where my mind is just a mess of ideas)! I’m pass
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Viviktha0709&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->mail.com   
+  
 ---
